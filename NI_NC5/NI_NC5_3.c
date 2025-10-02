@@ -13,7 +13,7 @@ printf("Sua idadade é:%d anos\n", idade);
 
 printf("Digite sua altura:\n");
 scanf ("%f", &altura);
-printf("Sua altura é: %f\n", altura);
+printf("Sua altura é: %.2f\n", altura);
 
 printf("Digite seu Nome: \n");
 scanf("%s", &nome);
